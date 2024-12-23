@@ -4,6 +4,11 @@ Cloud_Computing Quiz
 There is 2 files in this repo:
 ScreenShots : to visualize the code snippets results 
 SQL-code : contains the sql code
+ScreenShots22 : is same as ScreenShots but is a word file will open if you press view raw (if the pdf file did not open)
+
+
+
+
 
 -----------------------
 
